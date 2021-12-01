@@ -1,0 +1,4 @@
+﻿  UnitTest_lab.5.5.cpp
+C:\Users\Злата\source\repos\lab.5.5\lab.5.5\lab.5.5.cpp(28): warning C4715: f: значение возвращается не при всех путях выполнения
+     Создается библиотека C:\Users\Злата\source\repos\lab.5.5\Debug\UnitTest_lab.5.5.lib и объект C:\Users\Злата\source\repos\lab.5.5\Debug\UnitTest_lab.5.5.exp
+  UnitTest_lab.5.5.vcxproj -> C:\Users\Злата\source\repos\lab.5.5\Debug\UnitTest_lab.5.5.dll
